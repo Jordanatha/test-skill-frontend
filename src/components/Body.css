@@ -1,0 +1,85 @@
+.listGroupItem1, .listGroupItem2, .listGroupItem3{
+	text-align: center;
+}
+
+.img1{
+	width: 70px;
+}
+
+.name{
+	margin: 0px;
+}
+
+.desc, .desc2, .desc3{
+	color: #B5BAD6;
+}
+
+.viewedProf, .connections{
+	color: #6777D3;
+}
+
+.card2{
+	text-align: center;
+}
+
+.input{
+	border-right: none;
+	border-left: none;
+	border-top: none;
+	margin-bottom: 10px;
+	margin-top: 10px;
+}
+
+.but1, .but2, .but3{
+	background-color: white;
+	margin-left: 10px;
+	margin-right: 10px;
+	border-radius: 20px;
+	border-color: #9DA1B9;
+	margin-bottom: 10px;
+}
+
+.but4{
+	margin-left: 80px;
+	margin-right: 10px;
+	border-radius: 10px;
+	margin-bottom: 10px;
+}
+
+.but1:hover, .but2:hover, .but3:hover, .but4:hover{
+	cursor: pointer;
+}
+
+.img2{
+	width: 60px;
+}
+
+.postName, .postDesc, .postTime{
+	margin:0;
+}
+
+.postDesc, .postTime{
+	color: grey;
+	font-size: 0.7em;
+}
+
+.buttonRow{
+	padding-left: 15px;
+}
+
+.card2{
+	margin-bottom: 20px;
+}
+
+.fas, .fa-ellipsis-h:hover{
+	cursor: pointer;
+}
+
+.cardSubtitle{
+	color: grey;
+}
+
+.add1, .add2, .viewAll{
+	padding-left: 20px;
+	margin-bottom: 20px;
+}

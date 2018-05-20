@@ -1,0 +1,111 @@
+.container1{
+	background-color: #E7E8EF;
+}
+
+.profPhoto{
+	width: 120px;
+	margin-bottom: 10px;
+}
+
+.country{
+	color: #B1B4CB;
+}
+
+.connectBut, .inmailBut, .moreBut{
+	margin-right: 20px;
+}
+
+.binusLogo{
+	object-fit: cover;
+}
+
+.profileCard1, .profileCard2, .profileCard3, .profileCard4, .profileCard5, .profileCard6{
+	margin-bottom: 20px;
+}
+
+.photo{
+	width: 80px;
+}
+
+.highlights{
+	margin-bottom: 20px;
+}
+
+.bubbleChat{
+	width: 80px;
+}
+
+.nonprofit, .mutual, .followers{
+	color: #B1B4CB;
+}
+
+.activity{
+	margin:0;
+}
+
+.photo2{
+	width: 110px;
+}
+
+.mediaObj, .logoBinus1, .logoBinus2{
+	width: 130px;
+	margin-right: 10px;
+}
+
+.responsibility {
+	margin:0;
+	list-style-type: none;
+}
+
+.responsibility li:before { 
+	content: "- ";
+}
+
+.mediaObj2{
+	width: 100px;
+	margin-right: 40px;
+}
+
+.six, .five{
+	width: 30px;
+	margin-right: 20px;
+	margin-left: 20px;
+}
+
+.media1{
+	margin-bottom: 20px;
+}
+
+.rakuten, .logoBinus3{
+	width: 60px;
+	margin-right: 10px;
+}
+
+.interests{
+	margin-bottom: 20px;
+}
+
+.line {
+	border-width: 2px;
+	border-color: #B1B4CB;
+}
+
+.linkedinLogo{
+	width: 200px;
+	margin-bottom: 20px;
+}
+
+.rowFooter1, .rowFooter2, .rowFooter3, .rowFooter4{
+	margin-bottom: 10px;
+}
+
+.peopleView{
+	margin-bottom: 30px;
+	margin-top: 10px;
+}
+
+.photoViewed1,.photoViewed2, .photoViewed3{
+	width: 60px;
+	margin-right: 10px;
+	margin-bottom: 30px;
+}

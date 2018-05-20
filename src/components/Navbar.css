@@ -1,0 +1,22 @@
+.navbar{
+	background-color: #283e4a;
+}
+
+.fab, .fa-linkedin{
+	color: #0073b1;
+}
+
+i{
+	margin-right: 5px;
+}
+
+.navItem1{
+	border-bottom: 1px;
+	border-color: white;
+}
+
+.verticalLine{
+	border-left: 1px solid black;
+    height: 60px;
+    margin-top: 2px;
+}
